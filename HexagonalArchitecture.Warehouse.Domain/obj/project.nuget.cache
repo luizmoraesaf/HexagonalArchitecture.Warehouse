@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJ2QBmrO4RLK0kkluOPCnu1E7GdH8VpCSkuSUDiLYNRBrDAEpoGC0y0fANmmj53wnQk0Xba1k4qDf2EWJGxLnw==",
+  "success": true,
+  "projectFilePath": "/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/HexagonalArchitecture.Warehouse.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/luizmoraesaf/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
