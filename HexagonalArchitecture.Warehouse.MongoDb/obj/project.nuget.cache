@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JJ0y0qWVj53KKZXaC1aYsLuKT18B1gf5HRc/z/AsThLCdl9LYsnUm6oivpldDzw+wLKriJwwZNbQZVjY0UHH5g==",
+  "dgSpecHash": "yz27N0NVi3gEWnOG4DDW6hdlExAtJ3pr1fkdhKf5yQMfzS8J8bEJ2SXYjPpwzjZzkMf3ddOJCYEA5ailX3QXlg==",
   "success": true,
   "projectFilePath": "/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.MongoDb/HexagonalArchitecture.Warehouse.MongoDb.csproj",
   "expectedPackageFiles": [
     "/Users/luizmoraesaf/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
-    "/Users/luizmoraesaf/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",

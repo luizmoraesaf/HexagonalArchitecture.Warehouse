@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RUBL9o8Ugf3MAnRKYhSCy5AxxX/EpsMvPBEZYWyYt+r3SFEsCLsd/SuO9vWr5175++EGLfBMj6hzcRXvamdm8Q==",
+  "dgSpecHash": "NTxaV4n7716V/8xISmCrC45e7jbfwS0QQBzejsTCz9JytzxrEhhKVFd+m7c7g4z6URQt1zAgdME0RPypi/vHeA==",
   "success": true,
   "projectFilePath": "/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.SQL/HexagonalArchitecture.Warehouse.SQL.csproj",
   "expectedPackageFiles": [
     "/Users/luizmoraesaf/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512",
-    "/Users/luizmoraesaf/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/luizmoraesaf/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",

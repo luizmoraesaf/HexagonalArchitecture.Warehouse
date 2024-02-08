@@ -1,4 +1,4 @@
-namespace HexagonalArchitecture.Warehouse.MongoDb.Models;
+namespace HexagonalArchitecture.Warehouse.MongoDb.Entities;
 
 public class StockDbo
 {

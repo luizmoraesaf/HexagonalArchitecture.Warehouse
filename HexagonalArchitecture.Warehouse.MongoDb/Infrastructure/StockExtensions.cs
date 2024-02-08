@@ -1,5 +1,5 @@
 using HexagonalArchitecture.Warehouse.Domain.Entities;
-using HexagonalArchitecture.Warehouse.MongoDb.Models;
+using HexagonalArchitecture.Warehouse.MongoDb.Entities;
 
 namespace HexagonalArchitecture.Warehouse.MongoDb.Infrastructure;
 

@@ -10,3 +10,15 @@
 /Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehouse/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/refint/HexagonalArchitecture.Warehouse.Domain.dll
 /Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehouse/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.pdb
 /Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehouse/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/ref/HexagonalArchitecture.Warehouse.Domain.dll
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/bin/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.deps.json
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/bin/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.dll
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/bin/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.csproj.AssemblyReference.cache
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.AssemblyInfoInputs.cache
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.AssemblyInfo.cs
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.csproj.CoreCompileInputs.cache
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.dll
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/refint/HexagonalArchitecture.Warehouse.Domain.dll
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/HexagonalArchitecture.Warehouse.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/HexagonalArchitecture.Warehousee/HexagonalArchitecture.Warehouse.Domain/obj/Debug/net7.0/ref/HexagonalArchitecture.Warehouse.Domain.dll

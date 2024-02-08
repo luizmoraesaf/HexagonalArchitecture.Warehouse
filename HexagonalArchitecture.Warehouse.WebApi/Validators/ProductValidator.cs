@@ -1,7 +1,7 @@
 using FluentValidation;
 using HexagonalArchitecture.Warehouse.Domain.Entities;
 
-namespace HexagonalArchitecture.Warehouse.Domain.Validators;
+namespace HexagonalArchitecture.Warehouse.Validators;
 
 public class ProductValidator: AbstractValidator<Product>
 {

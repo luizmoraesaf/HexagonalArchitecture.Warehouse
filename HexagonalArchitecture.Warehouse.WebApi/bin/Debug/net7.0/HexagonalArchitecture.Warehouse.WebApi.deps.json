@@ -282,9 +282,6 @@
         }
       },
       "HexagonalArchitecture.Warehouse.Domain/1.0.0": {
-        "dependencies": {
-          "FluentValidation": "11.9.0"
-        },
         "runtime": {
           "HexagonalArchitecture.Warehouse.Domain.dll": {}
         }

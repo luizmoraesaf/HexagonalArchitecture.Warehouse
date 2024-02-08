@@ -2,7 +2,7 @@ using FluentValidation;
 using HexagonalArchitecture.Warehouse.Controllers;
 using HexagonalArchitecture.Warehouse.Domain.Entities;
 using HexagonalArchitecture.Warehouse.Domain.Services;
-using HexagonalArchitecture.Warehouse.Domain.Validators;
+using HexagonalArchitecture.Warehouse.Validators;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using MongoDB.Driver;
 

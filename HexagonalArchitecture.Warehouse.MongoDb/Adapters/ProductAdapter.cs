@@ -1,7 +1,7 @@
 using HexagonalArchitecture.Warehouse.Domain.Entities;
 using HexagonalArchitecture.Warehouse.Domain.InternalPorts;
+using HexagonalArchitecture.Warehouse.MongoDb.Entities;
 using HexagonalArchitecture.Warehouse.MongoDb.Infrastructure;
-using HexagonalArchitecture.Warehouse.MongoDb.Models;
 using MongoDB.Driver;
 
 namespace HexagonalArchitecture.Warehouse.MongoDb.Adapters;

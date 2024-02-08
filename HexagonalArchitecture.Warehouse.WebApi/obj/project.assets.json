@@ -470,9 +470,6 @@
       "HexagonalArchitecture.Warehouse.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "FluentValidation": "11.9.0"
-        },
         "compile": {
           "bin/placeholder/HexagonalArchitecture.Warehouse.Domain.dll": {}
         },
